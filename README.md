@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+![](./staic/透明.png)
+
+### 青稞社区
+
+定位于：青年AI研究员Idea加油站，转行码农的新能源充电桩；是一个面向人工智能领域的[技术交流社区](https://qingkelab.github.io)、[知识服务平台](https://qingkelab.github.io/talks)。
+
+
+
 <!--
 **qingkelab/qingkelab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
