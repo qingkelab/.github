@@ -4,7 +4,7 @@
 
 ### 青稞社区
 
-定位于：青年AI研究员Idea加油站，转行码农的新能源充电桩；是一个面向人工智能领域的[技术交流社区](https://qingkelab.github.io)、[知识服务平台](https://qingkelab.github.io/talks)。
+定位于：青年AI研究员Idea加油站，转行码农的新能源充电桩；是一个面向人工智能领域的[技术交流社区](https://qingkelab.github.io)、[知识服务社区](https://qingkelab.github.io/talks)。
 
 
 
