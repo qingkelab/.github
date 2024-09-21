@@ -4,11 +4,9 @@
 
 ### 青稞社区
 
-青年AI研究员Idea加油站，转行码农的新能源充电桩；
+青年AI研究员Idea加油站，AI开发者的新能源充电桩！
 
-专注于人工智能技术，提供：
-
-[技术交流社区](https://qingkelab.github.io)、[知识服务社区](https://qingkelab.github.io/talks)。
+[技术交流社区](https://qingkelab.github.io)、[知识服务社区](https://qingkelab.github.io/talks)、[日报](https://qingkelab.github.io/QingKeDaily/)。
 
 
 
