@@ -6,7 +6,7 @@
 
 青年AI研究员Idea加油站，AI开发者的新能源充电桩！
 
-[技术社区](https://qingkelab.github.io)、[知识社区](https://qingkelab.github.io/talks)、[青稞·日报](https://qingkelab.github.io/QingKeDaily/)。
+[技术社区](https://qingkelab.github.io)、[知识社区](https://qingkelab.github.io/talks)【[H5版](https://appodzjvyp51702.h5.xiaoeknow.com)】
 
 
 
