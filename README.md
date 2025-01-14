@@ -1,9 +1,7 @@
 ## 🔥青稞社区
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&pause=1000&color=000000&width=435&lines=%E9%9D%92%E5%B9%B4AI%E7%A0%94%E7%A9%B6%E5%91%98Idea%E5%8A%A0%E6%B2%B9%E7%AB%99%EF%BC%8CAI%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E6%96%B0%E8%83%BD%E6%BA%90%E5%85%85%E7%94%B5%E6%A1%A9%EF%BC%81)](https://git.io/typing-svg)
+> 青年AI研究员idea加油站，AI开发者的新能源充电桩！
 
 [技术社区](https://qingkelab.github.io)、[知识社区](https://qingkelab.github.io/talks)【[H5版](https://appodzjvyp51702.h5.xiaoeknow.com)】
-
 
 
 <!--
