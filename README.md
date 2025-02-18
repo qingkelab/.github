@@ -1,7 +1,7 @@
 ## 🔥青稞社区
 > 青年AI研究员idea加油站，AI开发者的新能源充电桩！
 
-[技术社区](https://qingkelab.github.io)、[知识社区](https://qingkelab.github.io/talks)【[H5版](https://appodzjvyp51702.h5.xiaoeknow.com)】
+[技术社区](https://qingkelab.github.io)、[知识社区](https://qingkelab.github.io/talks)【[H5版](https://appodzjvyp51702.h5.xiaoeknow.com)】[关于青稞社区](https://qingkelab.feishu.cn/wiki/SyGlwuAjriVCOokxcXRckwC7nYU)
 
 
 <!--
