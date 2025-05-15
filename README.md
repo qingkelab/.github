@@ -1,4 +1,4 @@
-<img src="./staic/Logo-3.gif" style="object-fit: cover; height: 100px; width: 100%">
+<img src="./staic/Logo-3.gif" style="object-fit: cover; height: 100px; width: 1200px">
 
 <p align="center">青年AI研究员idea加油站，AI开发者的新能源充电桩！</p>
 
