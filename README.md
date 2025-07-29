@@ -4,8 +4,12 @@
 
 ----
 
-青稞社区是一个专注于 AI 技术交流的开放社区，致力于为青年AI研究人员和开发者提供知识分享、技术交流和资源支持。
-
-
-[青稞官网](http://qingkeai.online/)｜[知识社区](http://qingkeai.online/categories/talk)｜[移动端访问](https://appodzjvyp51702.h5.xiaoeknow.com)｜[关于我们](https://qingkelab.feishu.cn/wiki/SyGlwuAjriVCOokxcXRckwC7nYU)
-
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://qingkeai.online/">青稞官网</a></td>
+    <td align="center"><a href="http://qingkeai.online/categories/talk">青稞Talk</a></td>
+    <td align="center"><a href="https://lu.ma/user/qingke">青稞Tea</a></td>
+    <td align="center"><a href="https://appodzjvyp51702.h5.xiaoeknow.com">移动端访问</a></td>
+    <td align="center"><a href="https://qingkelab.feishu.cn/wiki/SyGlwuAjriVCOokxcXRckwC7nYU">关于我们</a></td>
+  </tr>
+</table>
