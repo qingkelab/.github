@@ -1,10 +1,8 @@
-# 青稞AI社区 - 青年AI研究者加油站
+# 青稞社区 AGI时代的青年科学家社区
 
 ![](./staic/Logo-3.gif)
 
 <p align="center"><a href:"https://qingkeai.online">https://qingkeai.online</a></p>
-
-
 
 ----
 
