@@ -2,7 +2,7 @@
 
 ![](./staic/Logo-3.gif)
 
-<p align="center"><a href:"https://qingkeai.online">https://qingkeai.online</a></p>
+<p align="center">青年AI研究员idea加油站，AI开发者的戏能源充电桩！</p>
 
 ----
 
