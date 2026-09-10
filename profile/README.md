@@ -8,7 +8,7 @@
 
 ----
 
-“青稞”代表“**青年科学家**”。我们致力于在 AGI 时代，为青年 AI 研究者和开发者打造一个纯粹、开放、高质量的技术社区，成为“青年 AI 研究员的 idea 加油站、AI 开发者的新能源充电桩”。
+“青稞”代表“**青年科学家**”。我们致力于在 AGI 时代，为青年科学家打造一个纯粹、开放、高质量的技术社区，成为“青年 AI 研究员的 idea 加油站、AI 开发者的新能源充电桩”。
 
 社区愿景：以国人 AI 学者的星星之火，照亮华夏大国的漫漫“AI 长征路”！
 
@@ -22,10 +22,9 @@
 
 ## 活动与内容
 
-- [青稞Talk](https://qingkeai.online/talk)
-- [青稞AMA](https://qingkeai.online/ama)
-- [青稞Meetup](https://luma.com/user/qingke)：[LLM Infra](https://luma.com/event/evt-B0HCZBXHbpJcNGn?from=embed) · [RL Infra](https://luma.com/event/evt-QeAIs2bul3T3SYS?from=embed)
-- [2025 “青稞” AI 嘉年华](https://qingkeai.online/2025)
+- [青稞Talk](https://qingkeai.online/talk)：[2025 “青稞” AI 嘉年华](https://qingkeai.online/2025)
+- [青稞AMA](https://qingkeai.online/ama)：[Agent自进化](https://qingkeai.online/blog/ama-Agent-Self-Evolving)｜[World Model](https://qingkeai.online/blog/World-Model-AMA)｜[OPD](https://qingkeai.online/blog/OPD-AMA)
+- [青稞Meetup](https://luma.com/user/qingke)：[LLM Infra](https://luma.com/event/evt-B0HCZBXHbpJcNGn?from=embed)｜[RL Infra](https://luma.com/event/evt-QeAIs2bul3T3SYS?from=embed)
 
 ## 关注青稞
 
