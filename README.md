@@ -1,5 +1,3 @@
-# 青稞社区：AGI 时代的青年科学家社区
-
 <p align="center">
   <img src="./profile/staic/Logo-3.gif" alt="青稞社区" width="100%">
 </p>
@@ -19,7 +17,6 @@
 社区愿景：以国人 AI 学者的星星之火，照亮华夏大国的漫漫“AI 长征路”！
 
 <p align="center">
-  <a href="https://qingkeai.online/">青稞官网</a> ·
   <a href="https://qingkeai.online/talk">青稞Talk</a> ·
   <a href="https://qingkeai.online/ama">青稞AMA</a> ·
   <a href="https://luma.com/user/qingke">青稞Meetup</a> ·
