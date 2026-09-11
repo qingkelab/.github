@@ -6,6 +6,12 @@
 
 <p align="center">以青稞之火🔥，点亮华夏 AGI 之路！</p>
 
+<p align="center">
+  <a href="https://qingkeai.online/">
+    <img src="./profile/staic/home-button.svg" alt="进入青稞社区首页" height="44">
+  </a>
+</p>
+
 ----
 
 “青稞”代表“**青年科学家**”。我们致力于在 AGI 时代，为青年科学家打造一个纯粹、开放、高质量的技术社区，成为“青年 AI 研究员的 idea 加油站、AI 开发者的新能源充电桩”。
